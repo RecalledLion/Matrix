@@ -1,0 +1,13 @@
+/* By Boujjou Achraf*/
+
+/*basic reset */
+            
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, #matrix {background-color: black;}
+canvas {display:block;}
+
+
